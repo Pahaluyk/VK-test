@@ -1,5 +1,0 @@
-test/
-train/
-frame_cache/
-*.pkl
-*.mp4git rm -r --cached test/
