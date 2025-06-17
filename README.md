@@ -7,7 +7,7 @@
 | `labels_test.json` | Временные метки заставок для тестирования |
 | `labels_train.json` | Временные метки заставок для обучения | 
 | `results.json` | Предсказания OpenCV с метриками качества |
-| `results_dino.json` | Предсказания DINO с метриками качества | 
+| `results_dino.json` | Предсказания DINO | 
 | `best_classifier_dino.pth` | Обученные веса нейронной сети | 
 
 
